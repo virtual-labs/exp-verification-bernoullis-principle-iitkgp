@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Bernoulli's equation is applicable only for?",
+        "answers": {
+          "a": "Rotational flow",
+          "b": "Viscous flow",
+          "c": "Inviscid, incompressible flow",
+          "d": "Compressible flow"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The point where the fluid brought to rest isentropically is called as",
+        "answers": {
+          "a": "Rest point",
+          "b": "Stagnation point",
+          "c": "Viscous point",
+          "d": "Boundary layer point"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Bernoulli’s principle is primarily derived from which fundamental law?",
+        "answers": {
+          "a": "Newton’s second law of motion",
+          "b": "Law of conservation of momentum",
+          "c": "Law of conservation of energy",
+          "d": "All of the above"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The dynamic pressure is given by",
+        "answers": {
+          "a": "0.5*&#x3C1;*V*V",
+          "b": "&#x3C1;*V",
+          "c": "3*&#x3C1;*V",
+          "d": "0.5*&#x3C1;*V"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "In an aircraft pitot tube is used to measure:",
+        "answers": {
+          "a": "Altitude",
+          "b": "Flow velocity",
+          "c": "Density",
+          "d": "Temperature"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
