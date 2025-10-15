@@ -4,7 +4,7 @@
       {
         "question": "Bernoulli's equation is applicable only for?",
         "answers": {
-          "a": "Irrotational flow",
+          "a": "Rotational flow",
           "b": "Viscous flow",
           "c": "Inviscid, incompressible flow",
           "d": "Compressible flow"
@@ -24,14 +24,14 @@
         "difficulty": "beginner"
       },
       {
-        "question": "Bernouli's principle is derived from",
+        "question": "Bernoulli’s principle is primarily derived from which fundamental law?",
         "answers": {
-          "a": "Conservation of mass",
-          "b": "Conservation of energy",
-          "c": "Newton's law of motion",
-          "d": "Conservation of momentum"
+          "a": "Newton’s second law of motion",
+          "b": "Law of conservation of momentum",
+          "c": "Law of conservation of energy",
+          "d": "All of the above"
         },
-        "correctAnswer": "b",
+        "correctAnswer": "d",
         "difficulty": "beginner"
       },
       {
@@ -46,14 +46,14 @@
         "difficulty": "beginner"
       },
       {
-        "question": "For an ideal gas the pressure can be given by",
+        "question": "In an aircraft pitot tube is used to measure:",
         "answers": {
-          "a": "PV=nRT",
-          "b": "PV=RT",
-          "c": "PV=T",
-          "d": "PR=VT"
+          "a": "Altitude",
+          "b": "Flow velocity",
+          "c": "Density",
+          "d": "Temperature"
         },
-        "correctAnswer": "a",
+        "correctAnswer": "b",
         "difficulty": "beginner"
       }
     ]
