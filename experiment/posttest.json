@@ -46,12 +46,12 @@
         "difficulty": "beginner"
       },
       {
-        "question": "What is adverse pressure gradient?",
+        "question": "Why pressure measurements were taken at the center of the section?",
         "answers": {
-          "a": "the Static pressure decreases along the direction of fluid motion.",
-          "b": "the Stagnation pressure decreases along the direction of fluid motion.",
-          "c": "the Static pressure increases along the direction of fluid motion.",
-          "d": "the Stagnation pressure increases along the direction of fluid motion."
+          "a": "To avoid rotational effect",
+          "b": "To avoid unsteady effect",
+          "c": "To avoid viscosity effect",
+          "d": "Will not make any difference"
         },
         "correctAnswer": "c",
         "difficulty": "beginner"
