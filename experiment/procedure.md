@@ -16,7 +16,7 @@
 
   
 
-An air flow bench is a small-scale wind tunnel. It is a vertical flow, blow down type, low-speed subsonic wind tunnel with a provision to adjust air flow. The air flow bench parts are as mentioned: blower, flow duct, flow-control valve, honeycomb section, settling chamber, contraction cone, and test section. The blower sucks air from the atmosphere and supplies it to the settling chamber through the flow duct and honeycomb section. Flow-control valve can be used to adjust air flow to vary inlet velocity in the test section. Honeycomb reduces the turbulence coming from the blower. The contraction cone increases the velocity by reducing area at the expense of pressure. There are two pressure tapings in the air flow bench; one at the settling chamber, which gives stagnation or total pressure, and the second at the end of the contraction cone, which gives static pressure. The difference in these two pressure is used to calculate the inlet velocity of the test section.
+An air flow bench is a small-scale wind tunnel. It is a vertical flow, blow-down type, low-speed subsonic wind tunnel with a provision to adjust air flow. The air flow bench parts are as mentioned: blower, flow duct, flow-control valve, honeycomb section, settling chamber, contraction cone, and test section. The blower sucks air from the atmosphere and supplies it to the settling chamber through the flow duct and honeycomb section. A flow-control valve can be used to adjust air flow to vary the inlet velocity in the test section. Honeycomb reduces the turbulence coming from the blower. The contraction cone increases the velocity by reducing the area at the expense of pressure. There are two pressure tapings in the air flow bench; one at the settling chamber, which gives stagnation or total pressure, and the second at the end of the contraction cone, which gives static pressure. The difference in these two pressures is used to calculate the inlet velocity of the test section.
 
   
 
@@ -95,7 +95,7 @@ As the name suggests, this test section consists of varying area sections along 
 
   
 
-A multi-tube manometer is a manometer that is capable of acquiring multiple numbers of pressure values at once. During the experiment, we require to acquire four pressure values, two from the air flow bench and two from the pitot static tube. The multi-tube manometer used in this setup is an inclined type, which allows us to increase the resolution of measurement if required.
+A multi-tube manometer is a manometer that is capable of acquiring multiple numbers of pressure values at once. During the experiment, we need to acquire four pressure values, two from the air flow bench and two from the pitot static tube. The multi-tube manometer used in this setup is an inclined type, which allows us to increase the resolution of measurement if required.
 
   
 
@@ -110,8 +110,7 @@ A multi-tube manometer is a manometer that is capable of acquiring multiple numb
 </center>
 
   
-
-A pitot-static tube is a probe, when kept in flow, measures the flow's total pressure and static pressure at any particular location. In this experiment, we traverse the pitot-static tube from the top of the convergent, divergent test section to the bottom and record the total pressure and static pressure at all different locations.
+A pitot-static tube is a probe that, when kept in flow, measures the flow's total pressure and static pressure at any particular location. In this experiment, we traverse the pitot-static tube from the top of the convergent, divergent test section to the bottom and record the total pressure and static pressure at all different locations.
 
   
   
@@ -133,23 +132,16 @@ Schematc of the setup:
 #### Steps
 
 1. Take dimensions of convergent-divergent duct.
-
 2. Fix the convergent-divergent duct in the air flow bench.
-
 3. Fix the Pitot - static tube along the center of the duct.
-
 4. Set the flow regulator to desired position.
-
 5. Take the pressure measurements from top of the duct to bottom of the duct, by traversing the Pitot - static tube.
 
     #### Calculations
 
     - From eq. (3) find the velocity ratio, may call it as theoretical value
-
     - From eq. (7), find the velocity ratio, may call it as experimental value
-
     - From eq. (6), find the absolute velocity (V<sub>X</sub>)
-
     - Find the free stream velocity of the flow for the statement no. 4 in procedure section, using eq. (4).
 
 6. Plot graph for Bernoulli's equation verification : theoretical (V<sub>X</sub>/V<sub>T</sub>) and Experimental (V<sub>X</sub>/V<sub>T</sub>) against the streamwise location.
